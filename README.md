@@ -6,7 +6,8 @@ Adversarial generation uses two networks – a generator and a discriminator –
 ### Results
 We collected the data from a basketball game and a video game Snake.
 
-![Basketball](https://media.giphy.com/media/PlxrWSwTTjA3KFW8Rp/giphy.gif)
-![Snake](https://media.giphy.com/media/L0xNHleHM9K0gWvV2u/giphy.gif)
 
-The detailed results is shown at [here](https://docs.google.com/presentation/d/1dSCPw3_T-7nOAzeLDiZp9Sbr--sUO0bDb7_78sKT2_U/edit?usp=sharing). 
+<img src="https://media.giphy.com/media/PlxrWSwTTjA3KFW8Rp/giphy.gif" width="200" height="150"> 
+<img src="https://media.giphy.com/media/L0xNHleHM9K0gWvV2u/giphy.gif" width="200" height="150">
+
+
